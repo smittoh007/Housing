@@ -5,10 +5,13 @@ Using arduino to solve housing problems to be exhibited in Naijahacks
 # Team members
  Nwosu-Madueke Christopher:
  maduekechris@yahoo.com
+
  Oori Mark Ogbogo: 
  mark65209@gmail.com 
+
  OMEJE DANIEL OJONUGWA: 
  danomeje@gmail.com
+
  Emmanuel Smith Precious: 
  smittoh007@gmail.com
 # Problem
