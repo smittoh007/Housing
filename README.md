@@ -22,5 +22,15 @@ Using arduino to solve housing problems to be exhibited in Naijahacks
   Various houses face problems of multi-tasking due to inability to be in different places at the same time. 
 # Solution
   An app is produced to automate various activities in the home that can be controlled at ones wish, anytime and anywhere
+# Benefit
+  Almost an automatic house. 
+  
+  Easy living. 
+
+  Ability to multitask activities in the house. 
 # Stack
   Arduino, processing, python, Android studio. 
+# Day 1-intro
+  Set spreadsheet ready for team members and mentors
+  
+  Complete bizskills course. 
