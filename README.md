@@ -34,3 +34,5 @@ Using arduino to solve housing problems to be exhibited in Naijahacks
   Set spreadsheet ready for team members and mentors
   
   Complete bizskills course. 
+$day 1 intro
+
